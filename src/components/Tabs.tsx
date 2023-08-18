@@ -4,9 +4,9 @@ import { Tabs } from 'antd';
 
 const TabsComponent: React.FC = () => (
     <Tabs defaultActiveKey="1">
-      <items tab="Frontend" key="1">
+      <Tabs.pane tab="Frontend" key="1">
         <ProjectCardFront  />
-      </items>
+      </Tabs.pane>
     </Tabs>
 );
 
