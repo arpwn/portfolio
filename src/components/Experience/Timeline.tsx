@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, ReactNode } from 'react';
 import { Timeline } from 'antd';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
@@ -75,7 +75,7 @@ const TimeLine = () => {
       <h2 className={timelineModule.title}><b>Experience</b></h2>
       <Timeline>
         {timelineData.map((item, index) => (
-          <Timeline.items
+          <items
             key={index}
           >
             <AnimatedTimelineItem>
@@ -84,7 +84,7 @@ const TimeLine = () => {
                 <p key={idx}>{desc}</p>
               ))}
             </AnimatedTimelineItem>
-          </Timeline.items>
+          </items>
         ))}
       </Timeline>
     </div>
