@@ -75,7 +75,7 @@ const TimeLine = () => {
       <h2 className={timelineModule.title}><b>Experience</b></h2>
       <Timeline>
         {timelineData.map((item, index) => (
-          <items
+          <Timeline.items
             key={index}
           >
             <AnimatedTimelineItem>
@@ -84,7 +84,7 @@ const TimeLine = () => {
                 <p key={idx}>{desc}</p>
               ))}
             </AnimatedTimelineItem>
-          </items>
+          </Timeline.items>
         ))}
       </Timeline>
     </div>
