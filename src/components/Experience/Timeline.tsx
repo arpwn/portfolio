@@ -4,6 +4,10 @@ import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import timelineModule from './Timeline.module.scss'
 
+interface AnimatedTimelineItemProps {
+  children: ReactNode;
+}
+
 const AnimatedTimelineItem = ({ children }: AnimatedTimelineItemProps) => {
   const controls = useAnimation();
   const { ref, inView } = useInView({
