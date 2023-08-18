@@ -4,7 +4,7 @@ import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import timelineModule from './Timeline.module.scss'
 
-const AnimatedTimelineItem = ({ children: any }) => {
+const AnimatedTimelineItem = ({ children }: AnimatedTimelineItemProps) => {
   const controls = useAnimation();
   const { ref, inView } = useInView({
     triggerOnce: true,
