@@ -1,0 +1,15 @@
+$title-color: (
+  background: linear-gradient(to right, #4f7f83, #fff70099),
+  -webkit-background-clip: text,
+  color: transparent
+);
+
+.title {
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 5%;
+
+    @each $property, $value in $title-color {
+      #{$property}: $value;
+    }
+}

@@ -1,0 +1,75 @@
+.chartWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 800px;
+  
+    @media (max-width: 768px) {
+      width: 300px;
+      margin-top: 15%;
+    }
+  
+    @media (min-width: 768px) and (max-width: 991px) {
+      width: 500px;
+    }
+  }
+  
+  .wrapTwo {
+    width: 100%;
+    max-width: 600px;
+    height: 600px;
+
+    @media (max-width: 768px) {
+      height: 400px;
+    }
+
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+  
+    @media (max-width: 768px) {
+      margin: 5px 0;
+    }
+  }
+  
+  .responsiveButton {
+    background-color: transparent;
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+  
+    &:hover {
+      color: white;
+    }
+  }
+  
+  .labelContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  
+    @media (max-width: 768px) {
+      margin-top: 5px;
+    }
+  }
+  
+  .responsiveLabel {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+  
+    .colorSquare {
+      width: 12px;
+      height: 12px;
+      margin-right: 6px;
+    }
+  
+    span {
+      font-size: 14px;
+    }
+  }

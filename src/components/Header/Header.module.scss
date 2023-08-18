@@ -1,0 +1,75 @@
+$title-color: (
+  background-image: linear-gradient(to right, #4f7f83, #00f2ff99),
+  -webkit-background-clip: text,
+  color: transparent
+);
+
+$hab-color: (
+  background-image: linear-gradient(to right, #4f7f83, #ec9a20fa),
+  -webkit-background-clip: text,
+  color: transparent
+);
+
+$others-color: (
+  background-image: linear-gradient(to right, #4f7f83, #e600ff99),
+  -webkit-background-clip: text,
+  color: transparent
+);
+
+.header {
+  display: flex;
+
+  .title {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 17%;
+    @each $property, $value in $title-color {
+      #{$property}: $value;
+    }
+  }
+}
+
+.desc {
+  width: 32em;
+  line-height: 2;
+  font-size: 16px;
+  text-align: justify;
+  color: #000;
+  padding-bottom: 10%;
+}
+
+.habilities {
+  font-size: 2rem;
+  font-weight: 400;
+  @each $property, $value in $hab-color {
+    #{$property}: $value;
+  }
+}
+
+.skills {
+  padding-top: 5%;
+
+  .others {
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 5%;
+    @each $property, $value in $others-color {
+      #{$property}: $value;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+
+    .title {
+      padding-top: 2%;
+    }
+  }
+
+  .desc {
+    width: 17em;
+  }
+}

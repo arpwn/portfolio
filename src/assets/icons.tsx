@@ -1,0 +1,17 @@
+export const reactIcon = require('./icons/react.svg');
+export const typescriptIcon = require('./icons/typescript-icon.svg');
+export const fluentIcon = require('./icons/fluent.png');
+export const htmlIcon = require('./icons/html-5.svg');
+export const planetScaleIcon = require('./icons/planetscale.svg');
+export const dotNetCoreIcon = require('./icons/dotnetcore.svg');
+export const azureIcon = require('./icons/azure.svg');
+export const mulesoftIcon = require('./icons/mulesoft.svg');
+export const confluentIcon = require('./icons/confluent.svg');
+export const kaliIcon = require('./icons/kali.png');
+export const chessIcon = require('./icons/pawn.png');
+export const gatsbyIcon = require('./icons/gatsby.svg');
+export const nextIcon = require('./icons/nextjs-icon.svg');
+export const reduxIcon = require('./icons/redux.svg');
+export const javascriptIcon = require('./icons/javascript.svg');
+export const pythonIcon = require('./icons/python.svg');
+export const cssIcon = require('./icons/css-3.svg');
