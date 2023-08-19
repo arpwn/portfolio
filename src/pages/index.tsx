@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 import Header from '../components/Header/Header'
-import SideNav from '../components/SideNav/SideNav'
+import SideNav from '../components/Sidenav/SideNav'
 import Achievements from '../components/Achievements/Achievements'
 import Socials from '../components/Socials/Socials'
 import TimeLine from '../components/Experience/Timeline'
