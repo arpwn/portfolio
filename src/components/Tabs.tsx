@@ -1,4 +1,5 @@
 import { Tabs } from 'antd';
+import ProjectCardFront from '../components/ProjectCardFront/ProjectCardFront'
 
 const { TabPane } = Tabs;
 
