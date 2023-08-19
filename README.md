@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 
 Home
-![Imagen 1](../portfolio//src/assets/readme-images/Imagen1.png)
+![Imagen 1](./src/assets/readme-images/Imagen1.png)
 
 Skills
 ![Imagen 2](../portfolio/src/assets/readme-images/Imagen2.png)
