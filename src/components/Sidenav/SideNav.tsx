@@ -16,7 +16,7 @@ const SideNav = () => {
   const [activeLink, setActiveLink] = useState('');
   const navRef = useRef(null); // Reference to the navigation element
 
-  const handleLinkClick = (linkTo) => {
+  const handleLinkClick = (linkTo: string) => {
     setActiveLink(linkTo);
     const audio = new Audio('/sounds/click2.wav');
     audio.play();
