@@ -26,23 +26,23 @@ Users should be able to:
 ### Screenshot
 
 Home
-![](../portfolio//src/assets/readme-images/Imagen1.png)
+![Imagen 1](../portfolio//src/assets/readme-images/Imagen1.png)
 
 Skills
-![](../portfolio/src/assets/readme-images/Imagen2.png)
-![](../portfolio/src/assets/readme-images/Imagen3.png)
+![Imagen 2](../portfolio/src/assets/readme-images/Imagen2.png)
+![Imagen 3](../portfolio/src/assets/readme-images/Imagen3.png)
 
 Projects
-![](../portfolio/src/assets/readme-images/Imagen4.png)
+![Imagen 4](../portfolio/src/assets/readme-images/Imagen4.png)
 
 Experience
-![](../portfolio/src/assets/readme-images/Imagen5.png)
+![Imagen 5](../portfolio/src/assets/readme-images/Imagen5.png)
 
 Achievements
-![](../portfolio/src/assets/readme-images/Imagen6.png)
+![Imagen 6](../portfolio/src/assets/readme-images/Imagen6.png)
 
 Responsive
-![](../portfolio/src/assets/readme-images/Imagen7.png)
+![Imagen 7](../portfolio/src/assets/readme-images/Imagen7.png)
 
 ### Links
 
