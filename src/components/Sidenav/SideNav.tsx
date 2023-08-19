@@ -79,17 +79,17 @@ const SideNav = () => {
       {/* <Socials /> */}
       <ul className={styles.socials}>
         <li className={styles.bounce} onMouseEnter={handleHover}>
-          <a href="https://github.com/arpwn" target="_blank" rel="noopener noreferrer" alt="Github" aria-label="Github">
+          <a href="https://github.com/arpwn" target="_blank" rel="noopener noreferrer" aria-label="Github">
             <AiFillGithub />
           </a>
         </li>
         <li className={styles.bounce} onMouseEnter={handleHover}>
-          <a href="https://www.linkedin.com/in/armandonery34/?locale=en_US" target="_blank" rel="noopener noreferrer" alt="LinkedIn" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/armandonery34/?locale=en_US" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <AiFillLinkedin />
           </a>
         </li>
         <li className={styles.bounce} onMouseEnter={handleHover} target="_blank" rel="noopener noreferrer">
-          <a href="mailto:armandogune25@gmail.com"  alt="Mail" aria-label="Mail">
+          <a href="mailto:armandogune25@gmail.com" aria-label="Mail">
             <AiFillMail />
           </a>
         </li>
