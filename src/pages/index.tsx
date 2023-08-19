@@ -6,7 +6,6 @@ import Achievements from '../components/Achievements/Achievements'
 import Socials from '../components/Socials/Socials'
 import TimeLine from '../components/Experience/Timeline'
 import Tabs from '../components/Tabs'
-import Learnings from '../components/Learnings/Learnings'
 import Head from 'next/head';
 
 export default function Home() {
