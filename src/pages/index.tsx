@@ -5,7 +5,6 @@ import SideNav from '../components/Sidenav/SideNav'
 import Achievements from '../components/Achievements/Achievements'
 import Socials from '../components/Socials/Socials'
 import TimeLine from '../components/Experience/Timeline'
-import Description from '../components/Description'
 import Tabs from '../components/Tabs'
 import Learnings from '../components/Learnings/Learnings'
 import Head from 'next/head';
