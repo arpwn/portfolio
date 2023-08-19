@@ -8,7 +8,6 @@ import TimeLine from '../components/Experience/Timeline'
 import Description from '../components/Description'
 import Tabs from '../components/Tabs'
 import Learnings from '../components/Learnings/Learnings'
-import ThemeToggle from '../components/ThemeToggle'
 import Head from 'next/head';
 
 export default function Home() {
@@ -41,7 +40,6 @@ export default function Home() {
         {/* Sidenav */}
         <div className="side-nav">
           <SideNav />
-          {/* <ThemeToggle  /> */}
         </div>
       </div>
     </>
