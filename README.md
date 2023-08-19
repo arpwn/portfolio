@@ -25,28 +25,27 @@ Users should be able to:
 
 ### Screenshot
 
-Home
+**Home**
 ![Imagen 1](./src/assets/readme-images/Imagen1.png)
 
-Skills
-![Imagen 2](./src/assets/readme-images/Imagen2.png)
+**Skills**
 ![Imagen 3](./src/assets/readme-images/Imagen3.png)
 
-Projects
+**Projects**
 ![Imagen 4](./src/assets/readme-images/Imagen4.png)
 
-Experience
+**Experience**
 ![Imagen 5](./src/assets/readme-images/Imagen5.png)
 
-Achievements
+**Achievements**
 ![Imagen 6](./src/assets/readme-images/Imagen6.png)
 
-Responsive
+**Responsive**
 ![Imagen 7](./src/assets/readme-images/Imagen7.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://portfolio-armandonery.vercel.app/)
+- Live Site URL: [Portfolio](https://portfolio-armandonery.vercel.app/)
 
 ## My process
 
@@ -73,4 +72,4 @@ Responsive
 
 ## Author
 
-- Website - [Armando Nery](https://www.your-site.com)
+- Website - [Armando Nery](https://portfolio-armandonery.vercel.app/)
