@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
-import Socials from './Socials.tsx'
+import Socials from '../Socials/Socials'
 import styles from './SideNav.module.scss'
 import { Link } from 'react-scroll';
 import { AiFillGithub, AiFillLinkedin, AiFillMail } from "react-icons/ai";
