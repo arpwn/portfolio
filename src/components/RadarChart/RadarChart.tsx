@@ -27,14 +27,14 @@ const skillsData: Record<string, number[]> = {
   communication: [90, 95, 75, 80, 65, 75],
 };
 
-const labelsData = {
+const labelsData: Record<string, string[]> = {
   frontend: ['React', 'Gatsby', 'TypeScript', 'HTML5', 'CSS3', 'JavaScript'],
   backend: ['C#', 'SQL Server', 'ASP .NET', 'Data Structures', 'Algorithms'],
   tools: ['Git', 'VS Code', 'Github', 'Jest', 'GraphQL', 'Storybook'],
   communication: ['Teamwork', 'Communication', 'Problem Solving', 'Adaptability', 'Leadership', 'Creativity'],
 };
 
-const colors = {
+const colors: Record<string, { borderColor: string; backgroundColor: string }> = {
   frontend: { borderColor: 'rgba(54, 162, 235, 1)', backgroundColor: 'rgba(54, 162, 235, 0.2)' },
   backend: { borderColor: 'rgba(255, 99, 132, 1)', backgroundColor: 'rgba(255, 99, 132, 0.2)' },
   tools: { borderColor: 'rgba(85, 112, 192, 1)', backgroundColor: 'rgba(85, 112, 192, 0.2)' },
