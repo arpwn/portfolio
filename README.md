@@ -24,24 +24,30 @@ Users should be able to:
 - View a functional radar chart
 
 ### Screenshot
-
-**Home**
+## Home
+**Home section**
 ![Imagen 1](./src/assets/readme-images/Imagen1.png)
 
-**Skills**
+## Skills
+**Skills section**
 ![Imagen 3](./src/assets/readme-images/Imagen3.png)
 
-**Projects**
+## Projects
+**Projects section**
 ![Imagen 4](./src/assets/readme-images/Imagen4.png)
 
-**Experience**
+## Experience
+**Experience section**
 ![Imagen 5](./src/assets/readme-images/Imagen5.png)
 
-**Achievements**
+## Achievements
+**Achievements section**
 ![Imagen 6](./src/assets/readme-images/Imagen6.png)
 
-**Responsive**
+## Responsive
+**Responsive view**
 ![Imagen 7](./src/assets/readme-images/Imagen7.png)
+
 
 ### Links
 
