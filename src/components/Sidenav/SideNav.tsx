@@ -69,7 +69,6 @@ const SideNav = () => {
             offset={-70}
             duration={500}
             className={link.to === activeLink ? `${styles.cursor} ${styles.active}` : styles.cursor}
-            options={{ passive: true }}
             onClick={() => handleLinkClick(link.to)}
           >
             {link.label}
