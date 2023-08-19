@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 ## Home
 **Home section**
-![Imagen 1](./src/assets/readme-images/Imagen1.png)
+![Imagen 1](./src/assets/readme-images/Imagen11.png)
 
 ## Skills
 **Skills section**
