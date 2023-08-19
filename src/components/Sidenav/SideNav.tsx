@@ -88,8 +88,8 @@ const SideNav = () => {
             <AiFillLinkedin />
           </a>
         </li>
-        <li className={styles.bounce} onMouseEnter={handleHover} target="_blank" rel="noopener noreferrer">
-          <a href="mailto:armandogune25@gmail.com" aria-label="Mail">
+        <li className={styles.bounce} onMouseEnter={handleHover} >
+          <a href="mailto:armandogune25@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Mail">
             <AiFillMail />
           </a>
         </li>
