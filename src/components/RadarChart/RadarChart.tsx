@@ -20,7 +20,7 @@ ChartJS.register(
   Legend
 );
 
-const skillsData = {
+const skillsData: Record<string, number[]> = {
   frontend: [50, 75, 40, 90, 85, 65],
   backend: [70, 65, 75, 65, 45],
   tools: [70, 80, 75, 10, 25, 45],
