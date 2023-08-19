@@ -29,20 +29,20 @@ Home
 ![Imagen 1](./src/assets/readme-images/Imagen1.png)
 
 Skills
-![Imagen 2](../portfolio/src/assets/readme-images/Imagen2.png)
-![Imagen 3](../portfolio/src/assets/readme-images/Imagen3.png)
+![Imagen 2](./src/assets/readme-images/Imagen2.png)
+![Imagen 3](./src/assets/readme-images/Imagen3.png)
 
 Projects
-![Imagen 4](../portfolio/src/assets/readme-images/Imagen4.png)
+![Imagen 4](./src/assets/readme-images/Imagen4.png)
 
 Experience
-![Imagen 5](../portfolio/src/assets/readme-images/Imagen5.png)
+![Imagen 5](./src/assets/readme-images/Imagen5.png)
 
 Achievements
-![Imagen 6](../portfolio/src/assets/readme-images/Imagen6.png)
+![Imagen 6](./src/assets/readme-images/Imagen6.png)
 
 Responsive
-![Imagen 7](../portfolio/src/assets/readme-images/Imagen7.png)
+![Imagen 7](./src/assets/readme-images/Imagen7.png)
 
 ### Links
 
