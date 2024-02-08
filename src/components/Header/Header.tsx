@@ -49,9 +49,9 @@ const Header = () => {
 
         <div className={headerStyles.desc}>
           <span>
-            As a software developer, I am passionate about technology and committed to quality. 
-            I always seek to be efficient and focused in my projects,
-            and I constantly challenge myself to improve my work and face new challenges.
+            Passionate software developer with an insatiable hunger for solving complex problems 
+            creatively and efficiently. In 2024, I am focused on mastering the latest technologies 
+            such as React & Angular and leveraging them to build dynamic and impactful web applications.
           </span>
         </div>
 
