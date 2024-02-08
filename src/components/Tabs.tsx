@@ -8,6 +8,9 @@ const TabsComponent: React.FC = () => (
     <TabPane tab="Frontend" key="1">
       <ProjectCardFront />
     </TabPane>
+    <TabPane tab="Backend" key="2">
+      <h2>Upcoming</h2>
+    </TabPane>
   </Tabs>
 );
 
