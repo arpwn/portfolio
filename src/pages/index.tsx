@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <div className="container">
-        <h1 class="under">
+        <h1 className="under">
           `Improvements underway: I&apos;m working hard to update my portfolio 
           with new projects and content.`
         </h1>
