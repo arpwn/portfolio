@@ -11,6 +11,15 @@
   --text-color: #ffffff;
 }
 
+.under {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  margin: 0 auto;
+  text-align: justify;
+}
+
 body {
   background-color: var(--background-color);
   color: var(--text-color);
