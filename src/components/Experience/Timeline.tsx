@@ -35,6 +35,17 @@ const AnimatedTimelineItem = ({ children }: AnimatedTimelineItemProps) => {
 
 const timelineData = [
   {
+    title: 'IMSS',
+    date: '2024 - Current',
+    description: [
+      'Angular',
+      'React',
+      'Java',
+      'SQL',
+    ],
+    color: '#fee600',
+  },
+  {
     title: 'EY GDS',
     date: '2022 - 2023',
     description: [

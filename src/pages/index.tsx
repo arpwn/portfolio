@@ -12,11 +12,7 @@ export default function Home() {
   return (
     <>
       <div className="container">
-        <h1 className="under">
-          `Improvements underway: I&apos;m working hard to update my portfolio 
-          with new projects and content.`
-        </h1>
-        {/* <Head>
+        <Head>
           <title>Armando&apos;s Portfolio</title>
           <meta name="description" content="Personal portfolio to showcase my projects." />
           <link rel="icon" href="/favicon.ico" />
@@ -37,12 +33,12 @@ export default function Home() {
           <div id="achievements">
             <Achievements />
           </div>
-        </div> */}
+        </div>
 
         {/* Sidenav */}
-        {/* <div className="side-nav">
+        <div className="side-nav">
           <SideNav />
-        </div> */}
+        </div>
       </div>
     </>
   )
