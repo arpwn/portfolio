@@ -67,17 +67,6 @@ const timelineData = [
     ],
     color: '#0b743c',
   },
-  {
-    title: 'Cerezo Marketing',
-    date: '2018 - 2020',
-    description: [
-      'Creation of web components.',
-      'Creation of stored procedures, functions and validations.',
-      'Styling with Bootstrap and use of design templates.',
-      'Implementation of new perspectives to solve problems.',
-    ],
-    color: '#d40e53',
-  },
 ];
 
 const TimeLine = () => {
